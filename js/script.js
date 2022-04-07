@@ -17,3 +17,6 @@ setTime();
     seconds precision?
 */
 setInterval(setTime, 400);
+
+console.log("Page and code by Amy Wright");
+console.log("If you find this you get a pizza!");
