@@ -20,3 +20,9 @@ setInterval(setTime, 400);
 
 console.log("Page and code by Amy Wright");
 console.log("If you find this you get a pizza!");
+
+console.log("Supercalifragilisticexpialidocious".length);
+var Q_rsqrt = 0x5F3759DF;
+console.log("Q_rsqrt = " + Q_rsqrt + " (type is " + (typeof Q_rsqrt) + ")");
+var gifHeader = BigInt(0x474946383961);
+console.log("gifHeader = " + gifHeader + " (type is " + (typeof gifHeader) + ")");
